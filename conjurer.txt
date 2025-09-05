@@ -1,0 +1,7 @@
+maxHealth=130
+stamina=120
+level=21
+specialMoves=Lightning Blade
+specialMoves=Lightning Meteor
+specialMoves=Lightning Cloak
+specialMoves=Twin Lightning Dragon
